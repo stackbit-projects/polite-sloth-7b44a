@@ -108,4 +108,5 @@ seo:
       value: images/exto_preview.png
       relativeUrl: true
 layout: advanced
+Imagen: /images/pexels-pixabay-267350.jpg
 ---
