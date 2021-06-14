@@ -182,7 +182,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: Imagen
         type: image
   blog:
     type: page
